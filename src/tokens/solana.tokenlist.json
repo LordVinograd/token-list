@@ -29685,16 +29685,7 @@
     "twitter": "https://x.com/Bankmem",
     "telegram": "https://t.me/bankmemcoinoff"
   }
+  },
     {
       "chainId": 101,
-      "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
-      "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "in
+      "addre

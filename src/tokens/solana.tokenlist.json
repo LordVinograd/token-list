@@ -29672,20 +29672,20 @@
         "website": "https://spaceheads.co"
       }
     },
-    {
+   {
   "chainId": 101,
-  "address": "9TTyAJiMwZPCuUMFEWpA17vAFuDw9HvcQ7a6Qz3k5Jyz",
-  "symbol": "BNKM",
+  "address": "ASanspA9pvU8BM464cWyuiBG8PBhj3oMLTjbVJriAHGw",
+  "symbol": "BNKMM",
   "name": "BankMem",
   "decimals": 9,
-  "logoURI": "https://bafybeia2wy3tl746xfoxhwsg4jllwnbm46htgtkaeepsv5xiydec3g4zoe.ipfs.w3s.link/bankmem_logo.png",
-  "tags": [],
+  "logoURI": "https://raw.githubusercontent.com/LordVinograd/token-list/main/assets/mainnet/ASanspA9pvU8BM464cWyuiBG8PBhj3oMLTjbVJriAHGw/logo.png",
+  "tags": ["community", "meme"],
   "extensions": {
     "website": "https://bankmem.com",
     "twitter": "https://x.com/Bankmem",
     "telegram": "https://t.me/bankmemcoinoff"
   }
-  },
+},
     {
       "chainId": 101,
       "addre
